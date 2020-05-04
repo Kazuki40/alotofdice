@@ -1,0 +1,6 @@
+﻿  shack.cpp
+C:\Users\owner\Documents\GitHub\alotofdice\shack.cpp(50,18): warning C4267: '=': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+C:\Users\owner\Documents\GitHub\alotofdice\shack.cpp(90,18): warning C4267: '=': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+  ソース.cpp
+  コードを生成中...
+  alotofdice.vcxproj -> C:\Users\owner\Documents\GitHub\alotofdice\x64\Debug\alotofdice.exe

@@ -1,0 +1,2 @@
+C:\Users\owner\Documents\GitHub\alotofdice\x64\Debug\alotofdice.exe
+C:\Users\owner\Documents\GitHub\alotofdice\x64\Debug\alotofdice.pdb
